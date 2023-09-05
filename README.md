@@ -27,6 +27,7 @@ Run 'node server.js' and test in Insomnia.
 
 Clone the repo to run locally.
 
+npm run seed to ensure you have data to view.
 
 ## License
 
